@@ -14,7 +14,10 @@ const Footer = () => {
       <hr />
 
       <div className="links">
-        <p>Copyright © 2024 Apple Inc. All rights reserved.</p>
+        <p>
+          Copyright © 2025 Apple Clone. All rights reserved made by Mohammad
+          Shariq.
+        </p>
 
         <ul>
           {footerLinks.map(({ label, link }) => (
